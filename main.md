@@ -20,6 +20,7 @@
 #### 概要
 要件定義～統合テストまで対応中(現在)<br>
 メンバーとして設計からコーディングまで対応<br>
+サブリーダーとして結合テストの進捗管理を実施（新人の指導も併せて実施）<br>
 リーダーとしてDB管理、および、データ移行を担当<br>
 #### 言語
   C# | SQL | VBA<br>
@@ -30,6 +31,7 @@
   ・Microsoft office365<br>
   ・Visual Studio<br>
   ・SQL Server<br>
+  ・A5m2
   ・Azure<br>
   
 coming soon...
