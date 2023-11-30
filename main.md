@@ -23,15 +23,19 @@
 サブリーダーとして結合テストの進捗管理を実施（新人の指導も併せて実施）<br>
 リーダーとしてDB管理、および、データ移行を担当<br>
 #### 言語
-  C# | SQL | VBA<br>
+  C# | SQL | VBA(マクロ)<br>
 #### OS
   ・Windows10,11<br>
   ・Windows Server<br>
 #### ツール
-  ・Microsoft office365<br>
+##### エディタ系
   ・Visual Studio<br>
+##### DB系
   ・SQL Server<br>
-  ・A5m2
+  ・A5m2<br>
+##### その他
+  ・Microsoft office365<br>
   ・Azure<br>
+  
   
 coming soon...
